@@ -90,9 +90,9 @@ public:
 //        vSeeds.push_back(CDNSSeedData("seed3", "185.177.59.218"));
 		
 
-        base58Prefixes[PUBKEY_ADDRESS] = list_of(33};
-        base58Prefixes[SCRIPT_ADDRESS] = list_of(5};
-        base58Prefixes[SECRET_KEY] =     list_of(128};
+        base58Prefixes[PUBKEY_ADDRESS] = list_of(33);
+        base58Prefixes[SCRIPT_ADDRESS] = list_of(5);
+        base58Prefixes[SECRET_KEY] =     list_of(128);
         base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x04)(0x88)(0xB2)(0x1E);
         base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x88)(0xAD)(0xE4);
 
